@@ -17,3 +17,7 @@ After importing, you can run the main class `OpenfdaApplication` to run the appl
 ### Documentation
 Documentation is available after starting the program at: http://localhost:8080/swagger-ui.html
 ![swagger](https://i.ibb.co/SJBd0L0/swagger.jpg)
+
+### Continuous integration
+Continuous integration is set up in Github Actions. Build and tests start automatically after each commit. The last builds are available here:
+https://github.com/MichalFab/rest-microservice/actions
