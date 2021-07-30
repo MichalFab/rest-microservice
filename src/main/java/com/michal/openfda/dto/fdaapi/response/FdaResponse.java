@@ -1,9 +1,9 @@
 package com.michal.openfda.dto.fdaapi.response;
 
+import java.util.List;
+
 import lombok.Getter;
 import lombok.Setter;
-
-import java.util.List;
 
 @Getter
 @Setter
